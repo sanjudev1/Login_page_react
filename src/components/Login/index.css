@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.button {
+  background-color: #f8fafc;
+  color: #303150;
+  border-radius: 10px;
+  width: 108px;
+  height: 36px;
+  padding: 10px;
+}
+.h1 {
+  font-size: 50px;
+}
+
+.card {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: inset;
+  padding: 50px;
+}
